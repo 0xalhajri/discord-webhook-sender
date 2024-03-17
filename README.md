@@ -10,8 +10,8 @@
 ![image](https://github.com/0xalhajri/discord-webhook-sender/assets/99923991/f4a08574-beda-41a3-8728-a2283a640aef)
 
 
-my discord 9y_d
-my instagram malhajr411
+* my discord 9y_d
+* my instagram malhajr411
 
 
 Enjoy
