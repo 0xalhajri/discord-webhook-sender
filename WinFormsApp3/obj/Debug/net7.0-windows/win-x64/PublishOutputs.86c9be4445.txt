@@ -1,0 +1,7 @@
+C:\Users\kali\Desktop\SirMeshal\WinFormsApp3.pdb
+C:\Users\kali\Desktop\SirMeshal\D3DCompiler_47_cor3.dll
+C:\Users\kali\Desktop\SirMeshal\PenImc_cor3.dll
+C:\Users\kali\Desktop\SirMeshal\PresentationNative_cor3.dll
+C:\Users\kali\Desktop\SirMeshal\vcruntime140_cor3.dll
+C:\Users\kali\Desktop\SirMeshal\wpfgfx_cor3.dll
+C:\Users\kali\Desktop\SirMeshal\WinFormsApp3.exe

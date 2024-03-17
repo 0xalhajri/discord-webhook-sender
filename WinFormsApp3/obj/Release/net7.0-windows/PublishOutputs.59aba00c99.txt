@@ -1,0 +1,6 @@
+C:\Users\kali\Desktop\da\WinFormsApp3.exe
+C:\Users\kali\Desktop\da\WinFormsApp3.dll
+C:\Users\kali\Desktop\da\WinFormsApp3.deps.json
+C:\Users\kali\Desktop\da\WinFormsApp3.runtimeconfig.json
+C:\Users\kali\Desktop\da\WinFormsApp3.pdb
+C:\Users\kali\Desktop\da\Newtonsoft.Json.dll

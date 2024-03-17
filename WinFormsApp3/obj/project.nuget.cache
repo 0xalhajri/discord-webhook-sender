@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FzabxSer0OJXGKoWp5WLo7t8fRPjO1+ZKoEaW62+2l2LVB48+sbaSBn2YVpAHlcvvc3JbdFkFaSKCmV/gLXszw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kali\\source\\repos\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kali\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
